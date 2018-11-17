@@ -1,13 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VuforiaScripts", "VuforiaScripts.csproj", "{24887F33-3B1F-6D9E-0352-FD67A1B11B7F}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{301AAC65-4332-D0F1-EF03-9C877C1EFA1E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VuforiaEditorScripts", "VuforiaEditorScripts.csproj", "{45C25BA0-71FF-980A-D513-81C7CAD1E13E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VuforiaScripts", "VuforiaScripts.csproj", "{24887F33-3B1F-6D9E-0352-FD67A1B11B7F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{020F24BE-D50D-3189-F933-E230D0139527}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VuforiaEditorScripts", "VuforiaEditorScripts.csproj", "{45C25BA0-71FF-980A-D513-81C7CAD1E13E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VuforiaVersionCheckerScripts", "VuforiaVersionCheckerScripts.csproj", "{E498FF11-647E-B248-24C9-EB18A7450A0F}"
 EndProject
@@ -17,22 +17,22 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{24887F33-3B1F-6D9E-0352-FD67A1B11B7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{24887F33-3B1F-6D9E-0352-FD67A1B11B7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{24887F33-3B1F-6D9E-0352-FD67A1B11B7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{24887F33-3B1F-6D9E-0352-FD67A1B11B7F}.Release|Any CPU.Build.0 = Release|Any CPU
 		{301AAC65-4332-D0F1-EF03-9C877C1EFA1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{301AAC65-4332-D0F1-EF03-9C877C1EFA1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{301AAC65-4332-D0F1-EF03-9C877C1EFA1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{301AAC65-4332-D0F1-EF03-9C877C1EFA1E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{45C25BA0-71FF-980A-D513-81C7CAD1E13E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{45C25BA0-71FF-980A-D513-81C7CAD1E13E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{45C25BA0-71FF-980A-D513-81C7CAD1E13E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{45C25BA0-71FF-980A-D513-81C7CAD1E13E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24887F33-3B1F-6D9E-0352-FD67A1B11B7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24887F33-3B1F-6D9E-0352-FD67A1B11B7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24887F33-3B1F-6D9E-0352-FD67A1B11B7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24887F33-3B1F-6D9E-0352-FD67A1B11B7F}.Release|Any CPU.Build.0 = Release|Any CPU
 		{020F24BE-D50D-3189-F933-E230D0139527}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{020F24BE-D50D-3189-F933-E230D0139527}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{020F24BE-D50D-3189-F933-E230D0139527}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{020F24BE-D50D-3189-F933-E230D0139527}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45C25BA0-71FF-980A-D513-81C7CAD1E13E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45C25BA0-71FF-980A-D513-81C7CAD1E13E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45C25BA0-71FF-980A-D513-81C7CAD1E13E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45C25BA0-71FF-980A-D513-81C7CAD1E13E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{E498FF11-647E-B248-24C9-EB18A7450A0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{E498FF11-647E-B248-24C9-EB18A7450A0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E498FF11-647E-B248-24C9-EB18A7450A0F}.Release|Any CPU.ActiveCfg = Release|Any CPU

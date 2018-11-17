@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 15
-  productGUID: 00000000000000000000000000000000
+  productGUID: 525031f63e00814408f5a34b207df309
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -718,7 +718,7 @@ PlayerSettings:
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
   cloudProjectId: 7f861bdc-b434-4c2a-9091-2b19831afcc6
-  projectName: 
+  projectName: FightClubAR
   organizationId: shawnoakley
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
